@@ -11,7 +11,7 @@ I'm a passionate about Data Analysiswho loves building cool things with [AI tool
 
 ## Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOURUSERNAME)
-- [![Github])(https://github.com/suhanakhan970/AIMLbootcamp)
-- [![Email](suhanakhan.76767@gmail.com)
+- **LinkedIn**:(https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOURUSERNAME)
+- **Github**:(https://github.com/suhanakhan970/AIMLbootcamp)
+- **Email**:(suhanakhan.76767@gmail.com)
 
